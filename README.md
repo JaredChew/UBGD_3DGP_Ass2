@@ -1,5 +1,6 @@
 # Bachelor 3D Game Programming Assignment 1
 Audio Visualiser through Shaders
 
-I am not creative. I'm trying to improve my code structuring, style, and readability.
-While making a audio visualiser of course, but this time in shaders. Still not good in math
+I'm in no way creative. I'm in no way good at math.
+So this is the product of how far I can push both aspect in the scope of a audio visualiser. But now in shaders
+I put more focus into improving my code's structuring, style, and readability.
